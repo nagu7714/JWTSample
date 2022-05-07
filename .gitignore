@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JWTSampleApplication/.vs/JWTSampleApplication
+/JWTSampleApplication/JWTSampleApplication/bin/Debug/netcoreapp3.1
+/JWTSampleApplication/JWTSampleApplication/obj
